@@ -995,43 +995,4 @@ footer i{
     }
 }
 
-@media (max-width: 768px) {
-    .header {
-        padding: 2rem 5%;
-    }
-    
-    .logo {
-        font-size: 2rem;
-    }
-    
-    .navbar a {
-        font-size: 1.4rem;
-        margin: 0 1rem;
-    }
-
-    .home img {
-        width: 60vw;
-    }
-
-    .text-content h1 {
-        font-size: 3.5rem;
-    }
-
-    .text-animation h2 {
-        font-size: 2.5rem;
-    }
-
-    .skill-content, .skill-box {
-        width: 100%;
-    }
-
-    .wrapper {
-        width: 100%;
-        flex-direction: column;
-    }
-
-    .project-card img {
-        width: 50vw;
-    }
-}
 
